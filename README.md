@@ -4,7 +4,7 @@
 
 - Runtime: Node.js
 - Language: JavaScript
-- Testing: Jasmine and Supertest
+- Testing: Jasmine
 - dependencies : {
   "jasmine": "^4.4.0",
   "jasmine-spec-reporter": "^7.0.0",
